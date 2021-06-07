@@ -1,0 +1,13 @@
+C:\Users\Me\source\repos\AssessmentQuestions\AssessmentQuestions\bin\Debug\netcoreapp3.1\AssessmentQuestions.exe
+C:\Users\Me\source\repos\AssessmentQuestions\AssessmentQuestions\bin\Debug\netcoreapp3.1\AssessmentQuestions.deps.json
+C:\Users\Me\source\repos\AssessmentQuestions\AssessmentQuestions\bin\Debug\netcoreapp3.1\AssessmentQuestions.runtimeconfig.json
+C:\Users\Me\source\repos\AssessmentQuestions\AssessmentQuestions\bin\Debug\netcoreapp3.1\AssessmentQuestions.runtimeconfig.dev.json
+C:\Users\Me\source\repos\AssessmentQuestions\AssessmentQuestions\bin\Debug\netcoreapp3.1\AssessmentQuestions.dll
+C:\Users\Me\source\repos\AssessmentQuestions\AssessmentQuestions\bin\Debug\netcoreapp3.1\AssessmentQuestions.pdb
+C:\Users\Me\source\repos\AssessmentQuestions\AssessmentQuestions\obj\Debug\netcoreapp3.1\AssessmentQuestions.csprojAssemblyReference.cache
+C:\Users\Me\source\repos\AssessmentQuestions\AssessmentQuestions\obj\Debug\netcoreapp3.1\AssessmentQuestions.AssemblyInfoInputs.cache
+C:\Users\Me\source\repos\AssessmentQuestions\AssessmentQuestions\obj\Debug\netcoreapp3.1\AssessmentQuestions.AssemblyInfo.cs
+C:\Users\Me\source\repos\AssessmentQuestions\AssessmentQuestions\obj\Debug\netcoreapp3.1\AssessmentQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Me\source\repos\AssessmentQuestions\AssessmentQuestions\obj\Debug\netcoreapp3.1\AssessmentQuestions.dll
+C:\Users\Me\source\repos\AssessmentQuestions\AssessmentQuestions\obj\Debug\netcoreapp3.1\AssessmentQuestions.pdb
+C:\Users\Me\source\repos\AssessmentQuestions\AssessmentQuestions\obj\Debug\netcoreapp3.1\AssessmentQuestions.genruntimeconfig.cache
